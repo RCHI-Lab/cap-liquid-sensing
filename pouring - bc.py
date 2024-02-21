@@ -13,7 +13,7 @@ import time
 import threading
 import queue
 import torch
-from model import Transformer, MLP, CNN1D, MLP_2, MLP_2_class, MLP_2_10_resnet, MLP_2_10_resnet_class
+from model import MLP_2_10_resnet_class
 from scipy.optimize import fsolve
 from sklearn.preprocessing import PolynomialFeatures
 from sklearn.linear_model import LinearRegression

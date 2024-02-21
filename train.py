@@ -12,8 +12,8 @@ import numpy as np
 import io, os
 import argparse
 from torch.utils.data import Dataset, DataLoader
-from model import Transformer, MLP, CNN1D, MLP_2, MLP_2_resnet, MLP_2_10, MLP_2_10_resnet, MLP_2_10_3, MLP_2_10_33, MLP_2_10_3_tanh, MLP_2_10_resnet_class
-from dataloader import data_train, data_test, data_train_s, data_test_s, data_train_10, data_test_10
+from model import MLP_2_10_resnet_class
+from dataloader import data_train_10, data_test_10
 import torch
 from progressbar import ProgressBar
 from tqdm import tqdm

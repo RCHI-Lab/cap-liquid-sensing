@@ -13,7 +13,7 @@ import time
 import threading
 import queue
 import torch
-from model import MLP_bc, MLP_bc_value
+from model import MLP_bc
 from scipy.optimize import fsolve
 from sklearn.preprocessing import PolynomialFeatures
 from sklearn.linear_model import LinearRegression
