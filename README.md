@@ -28,7 +28,7 @@ Training, evaluation file for classification
 Capacitive sensing Teensy code
 
 ### hx711_scale.ino:
-Weighing sensor code
+Weighing scale code
 
 ### ckpts_final:
 Saved model parameters for PWP, behavior cloning, OWE second-order polynomial
