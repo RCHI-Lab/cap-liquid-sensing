@@ -24,6 +24,12 @@ Training and test data collection code for classification
 ### rl_final.ipynb:
 Training, evaluation file for classification
 
+### teensy_100hz.ino:
+Capacitive sensing Teensy code
+
+### hx711_scale.ino:
+Weighing sensor code
+
 ### ckpts_final:
 Saved model parameters for PWP, behavior cloning, OWE second-order polynomial
 
