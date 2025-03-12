@@ -33,5 +33,3 @@ Weighing scale code
 ### ckpts_final:
 Saved model parameters for PWP, behavior cloning, OWE second-order polynomial
 
-### Raw data for both classification and pouring:
-https://drive.google.com/file/d/1baFO95Sd-MPjYHMJaAIf3xd2C4GPr2dR/view?usp=sharing
